@@ -99,4 +99,4 @@ Este repositório está licenciado conforme os termos especificados no arquivo [
 
 ---
 
-📌 **Dica:** Use um editor como VS Code ou [MyCompiler](https://www.mycompiler.io/pt/new/php )para editar os arquivos PHP e facilitar a depuração e visualização das lógicas implementadas.
+📌 **Dica:** Use um editor como VS Code ou [MyCompiler](https://www.mycompiler.io/pt/new/php) para editar os arquivos PHP e facilitar a depuração e visualização das lógicas implementadas.
