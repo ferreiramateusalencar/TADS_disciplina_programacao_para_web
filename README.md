@@ -7,6 +7,7 @@ Bem-vindo(a) ao repositório da disciplina de **Programação para Web**, parte 
 - **Professor:** [Prof. Marcelo Santos Linder](http://lattes.cnpq.br/0118309756941390)
 - **Turma:** Primeira Turma - 2024.1
 - **Período:** 1º período
+- **Discente:** [Mateus Alencar Ferreira](https://github.com/ferreiramateusalencar/)
 
 ---
 
@@ -84,9 +85,11 @@ As atividades estão organizadas em pastas individuais. Cada pasta contém arqui
 ## ▶️ Como Utilizar
 
 Para executar as atividades:
-1. Instale um servidor local (ex: **XAMPP** ou **WAMP**).
-2. Copie os arquivos para a pasta `htdocs` (XAMPP) ou equivalente.
-3. Acesse via navegador, por exemplo: `http://localhost/atividade-a/index.php`.
+1. Acesse o site [MyCompiler](https://www.mycompiler.io/pt/new/php)
+2. Cole o código que deseja
+3. Execute a entrada conforme orientação do PDF
+4. Execute (Run) o código com a entrada
+5. Confira se a saída corresponde com o exemplo do PDF
 
 ---
 
