@@ -1,13 +1,14 @@
 <?php
 
 $int_A = intval(trim(fgets(STDIN)));
-while ($int_A <= -10000 || $int_A >= 10000) {
-    echo "Número inválido! Digite um número inteiro positivo entre -10000 e 10000: ";
+while ($int_A < -10000 || $int_A > 10000) {
+    echo "Número inválido! Digite um número inteiro entre -10000 e 10000: ";
     $int_A = intval(trim(fgets(STDIN)));
 }
+
 $int_B = intval(trim(fgets(STDIN)));
-while ($int_B <= -10000 || $int_B >= 10000) {
-    echo "Número inválido! Digite um número inteiro positivo entre -10000 e 10000: ";
+while ($int_B < -10000 || $int_B > 10000 || $int_B == 0) {
+    echo "Número inválido! Digite um número inteiro entre -10000 e 10000 e diferente de zero: ";
     $int_B = intval(trim(fgets(STDIN)));
 }
 
@@ -28,7 +29,6 @@ while ($sum + $abs_B <= $abs_A) {
 }
 
 $quotient *= $quotient_sign;
-
 $remainder = $int_A - ($quotient * $int_B);
 
 echo $quotient . "\n";
