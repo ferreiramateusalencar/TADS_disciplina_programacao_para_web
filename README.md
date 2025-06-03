@@ -5,7 +5,7 @@ Bem-vindo(a) ao repositório da disciplina de **Programação para Web**, parte 
 ## 👨‍🏫 Informações Gerais
 
 - **Professor:** [Prof. Marcelo Santos Linder](http://lattes.cnpq.br/0118309756941390)
-- **Turma:** Primeira Turma - 2024.1
+- **Turma:** Primeira Turma - 2024.2
 - **Período:** 1º período
 - **Discente:** [Mateus Alencar Ferreira](https://github.com/ferreiramateusalencar/)
 
